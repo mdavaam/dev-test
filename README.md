@@ -13,6 +13,7 @@ How to Run
 - cd dev-test
 - composer install
 - touch database/database.sqlite
+- change DB_DATABASE to database/database.sqlite
 - php artisan migrate
 - php artisan serve
 

@@ -9,10 +9,10 @@ Responsive and clean UI
 Server-side validation and basic security practices
 
 How to Run
-git clone https://github.com/mdavaam/dev-test.git
-cd dev-test
-composer install
-touch database/database.sqlite
-php artisan migrate
-php artisan serve
+- git clone https://github.com/mdavaam/dev-test.git
+- cd dev-test
+- composer install
+- touch database/database.sqlite
+- php artisan migrate
+- php artisan serve
 

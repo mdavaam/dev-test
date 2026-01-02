@@ -12,6 +12,7 @@ How to Run
 - git clone https://github.com/mdavaam/dev-test.git
 - cd dev-test
 - composer install
+- php artisan key:generate
 - touch database/database.sqlite
 - change DB_DATABASE to database/database.sqlite
 - php artisan migrate

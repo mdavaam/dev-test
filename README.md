@@ -17,4 +17,5 @@ How to Run
 - change DB_DATABASE to database/database.sqlite
 - php artisan migrate
 - php artisan serve
+- open /products
 
